@@ -618,6 +618,28 @@ a:hover { color: var(--brown); }
     margin-bottom: 44px;
 }
 
+.bio-lang-label {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.82rem;
+    font-style: italic;
+    color: var(--green);
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    display: block;
+    margin: 28px 0 10px;
+    opacity: 0.72;
+}
+
+.company-bio-es {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    line-height: 1.85;
+    color: var(--dark-soft);
+    margin-bottom: 44px;
+    padding-top: 16px;
+    border-top: 1px solid rgba(139, 111, 71, 0.15);
+}
+
 .btn-visit {
     display: inline-flex;
     align-items: center;
