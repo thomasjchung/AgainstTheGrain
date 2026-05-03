@@ -234,6 +234,17 @@ a:hover { color: var(--brown); }
     color: var(--dark-soft);
     letter-spacing: 0.12em;
     animation: fadeInUp 0.9s ease 0.18s both;
+    margin-bottom: 28px;
+}
+
+.hero-bio {
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.97rem;
+    line-height: 1.85;
+    color: var(--dark-soft);
+    max-width: 680px;
+    margin: 0 auto 18px;
+    animation: fadeInUp 0.9s ease 0.3s both;
 }
 
 /* ─── SECTIONS ─── */
